@@ -21,7 +21,7 @@ function accion1(){
 }
 
 function accion2(){
-    document.querySelector(".caja").innerHTML="<img src='img/logo.svg'>";
+    document.querySelector(".caja").innerHTML="<img src='img/logo.png'>";
 }
 
 function accion3(){
